@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conf>
+    <pythonPath>/usr/bin/</pythonPath>
+    <timeout>120</timeout>
+    <dailyAutorunOn>y</dailyAutorunOn>
+    <path>/home/data/</path>
+    <pythonVersion>3.5</pythonVersion>
+    <time>16:55</time>
+</conf>
